@@ -1,0 +1,25 @@
+=Tmitter
+
+miniblog like twitter
+
+==Features
+
+  * miniblog like twitter
+  * simple UI
+  * base on Python + Django
+
+==Install
+  1. Python 2.7
+  2. Django 1.9.2
+  3. MySQL-python 
+  4. PIL
+
+
+==Usage
+
+  Cpanel administror:
+    login:    admin 
+    password: 123456
+
+
+
